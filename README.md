@@ -4,7 +4,7 @@ My data science portfolio
 # Introductjion
 This portfolio is an ongoing project featuring my latest work and selected projects.  
 
-&ast;*Project links are disabled pending some updates and other changes*
+\*Project links are disabled pending some updates and other changes*
 
 # Project 1:  The Evolution of Political Language on Twitter---Twitter Text Mining Project
 * Collected and Analyzed Political 400,000 Tweets from 2007--2022
