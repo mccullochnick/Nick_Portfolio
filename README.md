@@ -1,11 +1,7 @@
-layout: page
-title:  "Nicks_Portfolio"
-permalink: https://mccullochnick.github.io/Nicks_Portfolio/README.md
-
 # Nicks_Portfolio
 My data science portfolio
 
-# Intro
+# Introductjion
 This portfolio is an ongoing project featuring my latest work and selected projects.  
 
 &ast;*Project links are disabled pending some updates and other changes*
